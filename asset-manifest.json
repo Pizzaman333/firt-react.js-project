@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firt-react.js-project/static/css/main.e9eddac8.css",
+    "main.js": "/firt-react.js-project/static/js/main.cdb43e3f.js",
+    "static/js/453.f6d4a5cc.chunk.js": "/firt-react.js-project/static/js/453.f6d4a5cc.chunk.js",
+    "index.html": "/firt-react.js-project/index.html",
+    "main.e9eddac8.css.map": "/firt-react.js-project/static/css/main.e9eddac8.css.map",
+    "main.cdb43e3f.js.map": "/firt-react.js-project/static/js/main.cdb43e3f.js.map",
+    "453.f6d4a5cc.chunk.js.map": "/firt-react.js-project/static/js/453.f6d4a5cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9eddac8.css",
+    "static/js/main.cdb43e3f.js"
+  ]
+}
